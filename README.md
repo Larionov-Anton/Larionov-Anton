@@ -6,14 +6,14 @@ About me:
 
 :guitar: В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.
 
-Follow me:
+:iphone: Follow me:
 
 [![instagram](https://img.shields.io/badge/INSTARAM-6DB284?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-6DB284?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
 [![telegramm](https://img.shields.io/badge/TELEGRAMM-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 
-Tech Stack:
+:computer: Tech Stack:
 
 ![html](https://img.shields.io/badge/HTML5-6DB284?style=flat&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
@@ -21,7 +21,7 @@ Tech Stack:
 ![js](https://img.shields.io/badge/JAVASCRIPT-6DB284?style=flat&logo=javascript&logoColor=F7E01D)
 ![jq](https://img.shields.io/badge/JQUERY-6DB284?style=flat&logo=jquery&logoColor=193657)
 
-Tools:
+:wrench: Tools:
 
 ![git](https://img.shields.io/badge/GIT-6DB284?style=flat&logo=git&logoColor=DF4C37)
 ![github](https://img.shields.io/badge/GITHUB-6DB284?style=flat&logo=github&logoColor=000000)
