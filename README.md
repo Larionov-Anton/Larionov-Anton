@@ -1,4 +1,4 @@
-About me:
+## About me
 
 :hand: Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React. 
 
