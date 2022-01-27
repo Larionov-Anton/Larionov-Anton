@@ -11,6 +11,7 @@ Follow me:
 [![instagram](https://img.shields.io/badge/INSTARAM-6DB284?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-6DB284?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
+[![telegramm](https://img.shields.io/badge/TELEGRAMM-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 
 Tech Stack:
 
