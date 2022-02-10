@@ -7,6 +7,7 @@
 :guitar: Увлекаюсь медитацией, йогой, плаваньем, горным трекингом и игрой на музыкальных инструментах.
 
 :iphone: Follow me:
+
 [![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
 <a href="https://freelancehunt.com/freelancer/anton_larionov05.html?from=shield&r=xPWv7" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1109187/type/reviews?style=flat&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
 
