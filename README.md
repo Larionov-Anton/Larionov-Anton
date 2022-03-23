@@ -9,7 +9,6 @@
 :iphone: Follow me:
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
-<a href="https://freelancehunt.com/freelancer/anton_larionov05.html?from=shield&r=xPWv7" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1109187/type/reviews?style=flat&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
 
 [![instagram](https://img.shields.io/badge/INSTARAM-0189B4?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
