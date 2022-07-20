@@ -22,7 +22,7 @@
 ![html](https://img.shields.io/badge/HTML5-7A8573?style=flat&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
-![JS(OOP/MVC)](https://img.shields.io/badge/JS(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![JS(OOP/MVC)](https://img.shields.io/badge/JS_(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
 ![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
 
 :wrench: Tools:
