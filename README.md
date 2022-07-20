@@ -23,7 +23,7 @@
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
 ![js](https://img.shields.io/badge/JAVASCRIPT-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
-![js(OOP/MVC)](https://img.shields.io/badge/JS (OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![JS(OOP/MVC)](https://img.shields.io/badge/JS(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
 ![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
 
 :wrench: Tools:
@@ -33,7 +33,7 @@
 ![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
 ![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
 ![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=E84C51)
-![nodejs](https://img.shields.io/badge/NODEJS-7A8573?style=flat&logo=node.js&logoColor=E84C51)
+![nodejs](https://img.shields.io/badge/NODE.JS-7A8573?style=flat&logo=node.js&logoColor=E84C51)
 ![avokode](https://img.shields.io/badge/PHOTOSHOP-7A8573?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
